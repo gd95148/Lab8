@@ -1,4 +1,6 @@
-# Lab8_Starter
+# Lab8
+# Gourab Dastider A15817532
+
 
 ## Check your understanding q's (FILL OUT)
 1. In your own words: Where would you fit your automated tests in your Bujo project development pipeline? (just write the letter)
